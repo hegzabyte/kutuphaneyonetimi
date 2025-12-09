@@ -1,0 +1,35 @@
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\obj\Debug\iposbkutuphane.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\obj\Debug\iposbkutuphane.Properties.Resources.resources
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\obj\Debug\iposbkutuphane.yukleme.resources
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\obj\Debug\iposbkutuphane.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\obj\Debug\iposbkutuphane.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\obj\Debug\iposbkutuphane.anamenu.resources
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\obj\Debug\iposbkutuphane.baslangıc.resources
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\obj\Debug\iposbkutuphane.gecikmis.resources
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\obj\Debug\iposbkutuphane.kitaplık.resources
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\bin\Debug\Guna.UI2.dll
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\obj\Debug\iposbkut.247E65DD.Up2Date
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\obj\Debug\iposbkutuphane.kitapekle.resources
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\obj\Debug\iposbkutuphane.ogrenciekle.resources
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\obj\Debug\KutuphaneSistemi.emanet.resources
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\bin\Debug\System.Buffers.dll
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\bin\Debug\System.Memory.dll
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\bin\Debug\System.Buffers.xml
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\bin\Debug\System.Memory.xml
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\bin\Debug\IPOSB MTAL Kütüphane.exe.config
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\bin\Debug\IPOSB MTAL Kütüphane.exe.manifest
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\bin\Debug\IPOSB MTAL Kütüphane.application
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\bin\Debug\IPOSB MTAL Kütüphane.exe
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\bin\Debug\IPOSB MTAL Kütüphane.pdb
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\obj\Debug\IPOSB MTAL Kütüphane.exe.manifest
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\obj\Debug\IPOSB MTAL Kütüphane.application
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\obj\Debug\IPOSB MTAL Kütüphane.exe
+C:\Users\yusuf\source\repos\iposbkutuphane\iposbkutuphane\obj\Debug\IPOSB MTAL Kütüphane.pdb
