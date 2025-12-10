@@ -35,8 +35,8 @@ C# Windows Forms kullanılarak geliştirilmiş, kullanıcı dostu ve modern aray
 | Kitap Listesi | Kitap Ekleme & API |
 | :---: | :---: |
 | ![Liste Görünümü](KitapListesi.png) | ![Ekleme Ekranı](KitapEkle.png) |
-| Diğer Menüler|
+| Gecikmiş Kitaplar | Kitap Emanet Etme / İade Alma|
 | :---: | :---: |
-| ![Geçikmiş Kitaplar Menüsü](GecikmisKitaplar.png) | ![Emanet İşlemleri Ekranı](Emanet.png) |
+| ![Gecikmis Kitaplar Menüsü](GecikmisKitaplar.png) | ![Emanet İslemleri Ekranı](Emanet.png) |
 
 
